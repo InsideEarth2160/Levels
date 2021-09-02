@@ -1,0 +1,17 @@
+Ich weis, dass im Editor wenn man über die obere linke Seite fährt ein Fehler bezüglich 
+zu vielere unterschiedlicher Wasserhöhen entsteht.
+Die Wasserhöhen sind alle auf exakt gleicher Höhe, habe ca 2 Stunden versucht das Problem zu
+beheben. Die Ursache ist mir bekannt, es werden zuviele nicht miteinander verbundene
+Gewässer gleichzeitig auf dem Bildschirm dargestellt.
+
+Ich hätte den "Fehler" nur beseitigen können, indem ich einige der Seen entferne.
+Allerdings wollte ich das nicht, da diese einen Kontrast zu den Bergen auf der unteren rechten 
+Seite darstellen sollten.
+
+Die Map wurde ausführlich, auch Clanintern online getestet, und Sie funktioniert bei jedem Spieler, obgleich 
+die Fehlermeldung im Editor auftaucht.
+
+
+
+Ich bitte daher, dies nicht negativ zu werten.
+Evtl. könnte man das Problem ja mit dem nächsten Patch fixen???

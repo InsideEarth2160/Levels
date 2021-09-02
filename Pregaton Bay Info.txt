@@ -1,0 +1,53 @@
+Short Info:
+------------------------------------------------------
+Jungel,beach und Felsklippen terrain in einer total ausbalancierten wunderschoenen tournamentmap!
+
+
+
+Hindergrund Geschichte:
+------------------------------------------------------
+Pregaton Bay
+
+Pregaton ist ein Mond im neutralen Fleex System, dessen konstante Athmosphäre es zulies durch Terrafoming eine neue gaia classifizierte Planetenoberfläche zu erschaffen. Trotz des Felsigen Mondgesteins gelang es dem Projekt genus5 unter erwärumung der Pole eine progressive Evolution 
+zu platzieren die sich zwar nur dünn auf der Oberfläche verteilt, dafür aber mit massiver dichte.
+
+Ziel von g5 war es die reichhaltigen Erzvorkommen durch Wasser und Kristalle zu erweitern. Leider ist es bis Heute keiner Lebensform, die es schon schafte Pregaton 
+unter ihrer Herrschaft zu ziehen gelungen sich dem Planeten gefügig zu machen. Zu heftig war die explosionsartige Evolution die zahlreiche tödliche Organismen wie Viren/Keime und Insekteoniden hervorgebracht hatte.
+So konnte bislang nur an Buchten oder sehr seltenen Lichtungen eine planetarisch Anlage installiert weden um die begehrten Ressourcen des Planeten abbauen zu koennen.
+
+Balancing:
+------------------------------------------------------
+Ich habe die map mit vielen aus der community getestet und viele haben mir sehr gute Vorschläge gemacht, wie man die Ressourcen verteilen koennte.
+Daher danke an euch, für die vielen guten Ideen!
+
+Es gibt auf der map 320k an ress, was genug ist für viele spannende kämpfe wo jede Einheit spieleintscheident sein kann, dh 160k für jeden.
+
+Die mainbase bekommt 60k ab und diese sind dank engen Felsklippen auch sehr gut zu schützen.
+Jedoch liegt die Mainbase sehr weit offen und kann vom gegner fast schon per direcktem Weg über den Strand angegriffen werden.
+
+60k zwingen einen quasie in die expansion, womit man gleich über seiner base auf einer höheren Ebene auch mit 40k eine "kleine" gelegenheit hat.
+Diese 40k exe ist leicht zu schüzen allerdings auch aus 2 Richtungen angreiffbar.
+
+In der Mitte der map sowie oberhalb der Mitte sind insgesammt 2 weitere exen mit jeweils 60K wobei es beim UCS vs UCS für einen Spieler sehr schwer fallen dürfte gleich beide exen einzunehmen, da die ressourcen verstreut sind und in der Mitte sich quasie aus sämtlichen Himmelsrichtungen angriffsmöglkichekeiten ergeben.
+
+Insgesammt gibt es enge Passagen und breite wie den weiten Strand. Es gibt jedemenge taktischer möglichkeiten da man auch nicht sehr viel platz hat ist man gezwungen seine Buildorder sehr genau zu planen und ich denke die map ist mit jeder rasse gut spielbar.
+
+Performance:
+------------------------------------------------------
+Ich habe die map sehr detailreich gestaltet, was denke ich mal stark auf die Performance schlägt, ich habe aber mit meinem Athlon 2400 und ner 6600GT auf Hightdetails nur beim UCS vs UCS gelegentlich kleine aussetzer und im 1on1 kann man schonmal die detailstufe nach oben schrauben.
+
+Design/Mapping:
+------------------------------------------------------
+Ich habe für die map 1 Woche gebraucht, weil ich nicht viel zeit habe, hab ich sobald ich gelegenheit hatte immer mal ein wennig dranrumgebastelt und ich koennte noch jetzt weiter dranrum fummeln, aber ich glaube jetzt sollte ich die Map mal raushauen, damit ich evt ne v2 durch euch getestet angleichen kann.
+
+dh bitte vorschläge bezügleich der map ruhig mal schreiben, denn ich habe die Exen andauernt vertauscht und ich koennte noch jetzt exen und ressourcen managment verändern, aber ich glaube atm bin ich bei einem guten Ergebnis angelangt.
+
+------------------------------------------------------
+
+Ich hoffe das ich euch mit Pregaton Bay ne freude gemacht habe und das die map Earth auch esport mässig weiterbringt, denn wie wir wissen gibbet nich viel gute 1vs1 maps. 
+
+tja landys ich denke ich habe alles gesagt was ich loswerden wollte, also dann viel spass auf der map !
+
+ps: Man munkelt der Sonnenuntergang aud Pregaton Bay soll spektakulär sein ;)
+
+mfg PhaDlaDy

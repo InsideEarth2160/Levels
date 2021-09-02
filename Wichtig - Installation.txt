@@ -1,0 +1,22 @@
+Die Level Dateien (bmp und ind Datei) einfach ganz normal installieren.
+
+
+Neben den Level Dateien findet ihr noch ein paar Texturen in dieser Zip File.
+Diese in das Installationsverzeichniss von Earth2160 kopiert werden.
+(Dort wo sich die ganzen Exe Dateien befinden).
+
+Bei mir ist der Pfad zu den Dateien:
+D:/Spiele/Earth2160/Textures/Terrains/
+
+Wobei im Earth2160 die ganzen Exen sind. 
+Den Pfad /Textures/Terrains/ müsst ihr unbedingt beibehalten, also einfach den Ordner
+zu den Exen im Earth2160 Verzeichnis kopieren.
+
+
+Wenn Ihr das nicht macht, habt ihr auf der Map keine Texturen!!!
+Daher achtet bitte darauf!
+
+
+
+Die Texturen sind freie Texturen!
+Quelle: http://www.noctua-graphics.de/deutsch/freetex_d.htm
